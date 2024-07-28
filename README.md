@@ -1,8 +1,14 @@
- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-<p>
-<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Brayan | 😜 Transformador de Códigos ✨</h1>
+
+<h1 align="center"> ╰┈➤H̳o̳l̳a̳<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> S̳o̳y̳ ̳B̳r̳a̳y̳a̳n̳ †😜 T̳r̳a̳n̳s̳f̳o̳r̳m̳a̳d̳o̳r̳ ̳d̳e̳ ̳C̳ó̳d̳i̳g̳o̳s̳✨</h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador,+front-End;Estudiante+de+Informática;Programador+Competitivo;Siempre+Aprendiendo+Cosas+Nuevas"></a>
+  <a href="https://www.youtube.com/watch?v=SDkAGkd4NLc">
+    <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador,+front-End;Estudiante+de+Informática;Programador+Competitivo;Siempre+Aprendiendo+Cosas+Nuevas" alt="Typing SVG">
+  </a>
 </p>
 
 <br>
