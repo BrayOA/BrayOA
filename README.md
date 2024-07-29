@@ -37,9 +37,9 @@
 
 ## <picture> <img width="100px"> </picture> 📧 Conéctate conmigo
 <p align="center">
-  <a href="mailto:borconarellano@gmail.com">
+ <a href="mailto:borconarellano@gmail.com">
     <img src="https://img.icons8.com/material-outlined/48/ffffff/email.png" class="icon" alt="Email" />
-  </a>
+</a>
   <a href="https://github.com/BrayOA">
     <img src="https://img.icons8.com/material-outlined/48/ffffff/github.png" class="icon" alt="GitHub" />
   </a>
