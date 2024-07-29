@@ -21,7 +21,7 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí
 
-<picture> <img align="right" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="300px" style="margin-top: 20px;"></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450"></picture>
 
 <br><br>
 
@@ -32,6 +32,7 @@
 - 🤓 `Siempre` aprendiendo `nuevas` cosas.
 - 🤔 Actualmente estoy `abierto` a una nueva oportunidad laboral.
 - 🚀 Puedes visitar :[MI SITIO WEB]().
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <br>
 
 ## <picture> <img width="100px"> </picture> 📧 Conéctate conmigo
