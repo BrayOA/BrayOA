@@ -14,12 +14,13 @@
 <br>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=BrayOA&label=Profile%20views&color=00FF00&style=for-the-badge" alt="Profile views" height="25px" width="160px"/>
+  <img src="https://komarev.com/ghpvc/?username=BrayOA&label=Profile%20views&color=696969&style=for-the-badge" alt="Profile views" height="25px" width="160px"/>
 </p>
 
 
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> ░S░o░b░r░e░ ░m░í░
 
 <picture> <img align="right" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="400"></picture>
 
@@ -35,7 +36,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <br>
 
-## <picture> <img width="100px"> </picture> 📧 Conéctate conmigo
+## <picture> <img width="100px"> </picture> 📧 ░C░o░n░é░c░t░a░t░e░ ░c░o░n░m░i░g░o░
 <p align="center">
  <a href="mailto:borconarellano@gmail.com">
     <img src="https://img.icons8.com/material-outlined/48/ffffff/email.png" class="icon" alt="Email" />
@@ -49,9 +50,9 @@
 </p>
 
 
-## 🛠️ Mis habilidades 
+## 🛠️ ░M░i░s░ ░h░a░b░i░l░i░d░a░d░e░s░ 
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"> </picture> Lenguajes de programación
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"> </picture> 𝘓𝘦𝘯𝘨𝘶𝘢𝘫𝘦𝘴 𝘥𝘦 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘢𝘤𝘪ó𝘯
 
 <p align="center">
   &emsp;
@@ -61,7 +62,7 @@
 </p>
 
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"> </picture> Desarrollo front-end
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"> </picture> 𝘋𝘦𝘴𝘢𝘳𝘳𝘰𝘭𝘭𝘰 𝘧𝘳𝘰𝘯𝘵-𝘦𝘯𝘥
 <p align="center">
   &emsp;
   <a href="https://skillicons.dev">
@@ -70,7 +71,7 @@
 </p>
 
 
- ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> </picture> Herramientas de software
+ ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> </picture>𝘏𝘦𝘳𝘳𝘢𝘮𝘪𝘦𝘯𝘵𝘢𝘴 𝘥𝘦 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦
  
 <p align="center">
   &emsp;
@@ -80,7 +81,7 @@
 </p>
 
 
- ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"> </picture> IDEs
+ ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"> </picture> 𝘐𝘋𝘌𝘴 
  
 <p align="center">
   &emsp;
@@ -90,7 +91,7 @@
 </p>
 
 
- ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="50px"> </picture> Sistemas operativos
+ ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="50px"> </picture> 𝘚𝘪𝘴𝘵𝘦𝘮𝘢𝘴 𝘰𝘱𝘦𝘳𝘢𝘵𝘪𝘷𝘰𝘴
  
 <p align="center">
   &emsp;
