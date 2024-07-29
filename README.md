@@ -21,7 +21,7 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí
 
-<picture> <img align="right" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450"></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="400"></picture>
 
 <br><br>
 
@@ -37,7 +37,7 @@
 
 ## <picture> <img width="100px"> </picture> 📧 Conéctate conmigo
 <p align="center">
-  <a href="mailto:ahmed.7oskaa@gmail.com">
+  <a href="mailto:borconarellano@gmail.com">
     <img src="https://img.icons8.com/material-outlined/48/ffffff/email.png" class="icon" alt="Email" />
   </a>
   <a href="https://github.com/BrayOA">
